@@ -15,4 +15,6 @@ def calculadora():
     return "La suma es: " + str((n1 + n2))
 
 
-
+@app.route("/info")
+def info():
+    return "201480017"

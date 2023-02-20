@@ -57,6 +57,7 @@
 - > git checkout -b Calculadora_201480017
 
 ### Creamos y nos posicionamos en la rama: "info_201480017"
+<<<<<<< HEAD
 - > git checkout -b info_201480017
 
 ### Entrega de primera version
@@ -81,3 +82,6 @@
         - > git push -u origin v2.0.0
 
     
+=======
+- > git checkout -b info_201480017
+>>>>>>> e942d90db3ab1b330e9c1968d7720cdea6b5c927

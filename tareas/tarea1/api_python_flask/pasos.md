@@ -55,3 +55,6 @@
 # Comandos Tarea1
 ### Creamos y nos posicionamos en la rama: "Calculadora_201480017"
 - > git checkout -b Calculadora_201480017
+
+### Creamos y nos posicionamos en la rama: "info_201480017"
+- > git checkout -b info_201480017

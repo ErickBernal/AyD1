@@ -72,8 +72,8 @@
     - > git pull origin main
     - > git checkout -b hotfix/endpoint_calculadora
     - creamos las modificaciones necesarias
-    - > git add main.py
-    git commit -m "se soluciono el error, en la operacion de multiplicacion, sobre endpoint Calculadora_201480017"
+    - > git add .
+    - > git commit -m "se soluciono el error, en la operacion de multiplicacion, sobre endpoint Calculadora_201480017"
     - > git push -u oriign  hotfix/endpoint_calculadora
     - Agregando El tag correspondiente
         - > git checkout main
@@ -82,6 +82,3 @@
         - > git push -u origin v2.0.0
 
     
-=======
-- > git checkout -b info_201480017
->>>>>>> e942d90db3ab1b330e9c1968d7720cdea6b5c927

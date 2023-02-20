@@ -12,7 +12,7 @@ def calculadora():
     post_details = request.get_json()
     n1 = post_details["n1"]
     n2 = post_details["n2"]
-    return "La suma es: " + str((n1 + n2))
+    return "La Multiplicacion es: " + str((n1 * n2))
 
 
 @app.route("/info")
